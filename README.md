@@ -1,4 +1,3 @@
-Open dist folder in cmd
 First run httpfs using: python httpfs.py [-d directory]
 
 Second: Install go and then run 'go build router.go'
